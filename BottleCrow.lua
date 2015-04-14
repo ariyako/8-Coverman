@@ -172,6 +172,13 @@ function GameClose()
 		fase = 0
 		player = nil
 		me = nil
+		galinha = nil
+		lugar = nil
+		count = 0 -- variavel de teste de bugs
+		fase = 0 -- 0 desligado, 1 buscando, 2 pegando, 3 entregando
+		fazendo = 0 -- conserta bug da fase 4
+		zerocd = 0
+		fez = 0
 	end
 end
 
