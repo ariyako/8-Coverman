@@ -1,3 +1,4 @@
+--<< Techies_Bottle_Crow - Script By Coverman 0.1 >>
 require("libs.ScriptConfig")
 require("libs.Utils")
 
@@ -183,4 +184,4 @@ function GameClose()
 end
 
 script:RegisterEvent(EVENT_CLOSE,GameClose) 
-script:RegisterEvent(EVENT_TICK,Load)5
+script:RegisterEvent(EVENT_TICK,Load)
