@@ -1,4 +1,4 @@
---<< Techies_Bottle_Crow - Script By Coverman 0.1 >>
+--<< Bottle_Crow - Script By Coverman 0.1 >>
 require("libs.ScriptConfig")
 require("libs.Utils")
 
